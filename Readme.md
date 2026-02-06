@@ -1,9 +1,3 @@
-Perfect 👍
-Here is a **fully optimized, clean, copy-paste-ready `README.md`** — short, professional, and GitHub-friendly.
-
----
-
-```md
 # 🧾 Donation Receipt Management System
 
 A full-stack web application to **create, store, view, and download donation receipts** for a trust or organization.
