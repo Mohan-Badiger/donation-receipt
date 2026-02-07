@@ -156,16 +156,3 @@ Optional query:
 **Mohan S Badiger**
 📧 [mohanbadiger250@gmail.com](mailto:mohanbadiger250@gmail.com)
 💻 Full-Stack MERN Developer
-
-```
-
----
-
-If you want next:
-- ⭐ GitHub badges
-- 📸 Screenshots section
-- 🚀 Deployment guide
-- 📝 Resume-ready project summary
-
-Just say the word 👍
-```
